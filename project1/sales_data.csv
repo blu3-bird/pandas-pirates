@@ -1,0 +1,31 @@
+Date,Product,Category,Quantity,Price,Customer,Payment_Method
+2024-01-15,Laptop,Electronics,1,899.99,Alice,Credit Card
+2024-01-16,Mouse,Electronics,2,25.50,Bob,PayPal
+2024-01-16,Notebook,Stationery,5,3.99,Alice,Credit Card
+2024-01-17,Keyboard,Electronics,1,75.00,Charlie,Debit Card
+2024-01-18,Pen Set,Stationery,3,12.99,Bob,PayPal
+2024-01-19,Monitor,Electronics,1,299.99,David,Credit Card
+2024-01-20,Desk Lamp,Furniture,2,45.50,Alice,Credit Card
+2024-01-22,Office Chair,Furniture,1,199.99,Eve,Debit Card
+2024-01-23,USB Cable,Electronics,4,8.99,Charlie,PayPal
+2024-01-24,Stapler,Stationery,2,15.99,Bob,Credit Card
+2024-01-25,Webcam,Electronics,1,89.99,Frank,PayPal
+2024-01-26,Bookshelf,Furniture,1,149.99,Alice,Credit Card
+2024-01-28,Headphones,Electronics,1,129.99,David,Debit Card
+2024-01-29,Desk Organizer,Stationery,3,18.50,Eve,Credit Card
+2024-01-30,Table,Furniture,1,249.99,Charlie,Debit Card
+2024-02-01,Mouse Pad,Electronics,5,9.99,Bob,PayPal
+2024-02-02,Paper Ream,Stationery,2,24.99,Alice,Credit Card
+2024-02-03,Standing Desk,Furniture,1,399.99,Frank,Credit Card
+2024-02-05,Calculator,Stationery,1,29.99,David,PayPal
+2024-02-06,Laptop Stand,Furniture,2,55.00,Eve,Debit Card
+2024-02-08,HDMI Cable,Electronics,3,12.99,Charlie,Credit Card
+2024-02-09,Printer,Electronics,1,199.99,Alice,Credit Card
+2024-02-10,Scissors,Stationery,4,7.99,Bob,PayPal
+2024-02-12,Whiteboard,Furniture,1,79.99,Frank,Debit Card
+2024-02-14,Tablet,Electronics,1,449.99,David,Credit Card
+2024-02-15,Marker Set,Stationery,6,14.99,Alice,PayPal
+2024-02-17,Desk Mat,Furniture,1,34.99,Eve,Credit Card
+2024-02-18,External SSD,Electronics,1,159.99,Charlie,Debit Card
+2024-02-20,Filing Cabinet,Furniture,1,189.99,Bob,Credit Card
+2024-02-22,Wireless Mouse,Electronics,2,45.99,Frank,PayPal
